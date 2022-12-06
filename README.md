@@ -39,6 +39,25 @@ node -v
 ```
 npm -v
 ```
+Create a new directory for your To-Do project and move into the directory
+```
+mkdir Todo && cd Todo
+```
+
+Initialise your project
+```
+npm init
+```
+
+Install ExpressJs and dotenv
+
+```
+npm install express dotenv
+
+```
+
+tou
+
 
 
 
