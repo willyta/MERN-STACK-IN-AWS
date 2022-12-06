@@ -7,11 +7,15 @@ In order to complete this project, you will need an AWS account and a virtual se
 ## STEP 1 – BACKEND CONFIGURATION
 Update a list of packages in package manager
 
-''' sudo apt update '''
+''' 
+sudo apt update 
+'''
 
 Upgrade ubuntu
 
-''' sudo apt upgrade '''
+'''
+sudo apt upgrade 
+'''
 
 Get the location of Node.js software from Ubuntu repositories.
 
